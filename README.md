@@ -3,8 +3,8 @@
 I’m **@mewset** — a stubborn web tinkerer who loves UX/UI and tries to make the web behave itself.
 
 ## 🧰 Currently on the workbench:
-- **Horsemate.se** – digital stable management, the way it ought to be.
-- **VSIU** (*Very Smart Image Uploader*) – so smart it practically uploads your files before you click.
+- **[Horsemate.se](https://horsemate.se)** – digital stable management, the way it ought to be.
+- **VSIU** (*Very Smart Image Uploader*) – so smart it practically uploads your files before you click. *(Under active development)*
 
 ## ⚙️ Tech Stack
 

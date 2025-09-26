@@ -4,7 +4,8 @@ I’m **@mewset** — a stubborn web tinkerer who loves UX/UI and tries to make 
 
 ## 🧰 Currently on the workbench:
 - **[Horsemate.se](https://horsemate.se)** – digital stable management, the way it ought to be.
-- **VSIU** (*Very Smart Image Uploader*) – so smart it practically uploads your files before you click. *(Under active development)*
+- **VSIU** (*Very Smart Image Uploader*) – so smart it practically uploads your files before you click.
+- **Headset-status** - A lightweight, fast, and modern Linux system tray application that displays the battery and connection status of your wireless and USB headsets.  
 
 ## ⚙️ Tech Stack
 
@@ -24,6 +25,11 @@ Built with:
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
 [![Radix UI](https://img.shields.io/badge/Radix%20UI-000000?style=for-the-badge)](https://www.radix-ui.com/)  
 
+---
+
+### 🎧 Headsetstatus
+Built with:  
+C / C++
 
 ---
 

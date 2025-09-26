@@ -30,6 +30,7 @@ Built with:
 ### 🎧 Headsetstatus
 Built with:  
 C / C++
+Available on Arch AUR: [Headsetstatus](https://aur.archlinux.org/packages/headsetstatus)**
 
 ---
 

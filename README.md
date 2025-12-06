@@ -1,47 +1,35 @@
-# 👋 Hello there!
+<p align="center">
+    <h1 align="center">👋 Hello there!</h1>
+    <p align="center">
+      <strong>@mewset</strong> — Stubborn web tinkerer who loves UX/UI and tries to make the web behave itself.
+    </p>
+    <p align="center">
+      <a href="https://x.com/mewset"><img src="https://img.shields.io/badge/X-@mewset-000?style=flat-square&logo=x" alt="X"></a>
+      <a href="https://www.linkedin.com/in/mattias-andersson-551a9048/"><img src="https://img.shields.io/badge/LinkedIn-Mattias%20Andersson-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+      <a href="https://ko-fi.com/R6R21I53PD"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+    </p>
+  </p>
 
-I’m **@mewset** — a stubborn web tinkerer who loves UX/UI and tries to make the web behave itself.
+  ---
 
-## 🧰 Currently on the workbench:
-- **[Horsemate.se](https://horsemate.se)** – digital stable management, the way it ought to be.
-- **VSIU** (*Very Smart Image Uploader*) – so smart it practically uploads your files before you click.
-- **Headset-status** - A lightweight, fast, and modern Linux system tray application that displays the battery and connection status of your wireless and USB headsets.  
+  ## 🧰 Currently on the workbench
 
-## ⚙️ Tech Stack
+  | Project | Description | Stack |
+  |---------|-------------|-------|
+  | 🐴 **[Horsemate.se](https://horsemate.se)** | Digital stable management, the way it ought to be | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
+  | 🏇 **TrotBuddy** | Digital trot-trainer partner in your pocket | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+  | 🎧 **[HeadsetStatus](https://github.com/mewset/headsetstatus)** | Lightweight headset battery monitor for Linux | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![AUR](https://img.shields.io/aur/version/headsetstatus?style=flat-square) |
 
-### 🐴 Horsemate.se
-Built with:  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)   
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)](https://ui.shadcn.com/)  
+  ---
 
----
+  ## ☕ Fuel my coffee habit
 
-### 📸 VSIU
-Built with:  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)  
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
-[![Radix UI](https://img.shields.io/badge/Radix%20UI-000000?style=for-the-badge)](https://www.radix-ui.com/)  
+  If you think my projects deserve a refill:
 
----
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R21I53PD)
 
-### 🎧 Headsetstatus
-Built with:  
-C / C++
-Available on Arch AUR: [Headsetstatus](https://aur.archlinux.org/packages/headsetstatus)**
+  ---
 
----
-
-## ☕ Fuel my coffee habit:
-If you think my projects deserve a refill — feel free to buy me a cup here:  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R21I53PD)
-
----
-
-📫 **Got ideas, questions, or just want to say hi?**  
-Open an issue, a pull request — or connect with me here:  
-
-[![X](https://img.shields.io/badge/X-@mewset-1DA1F2?style=for-the-badge&logo=x)](https://x.com/mewset)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattias%20Andersson-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mattias-andersson-551a9048/)
+  <p align="center">
+    <sub>📫 Got ideas, questions, or just want to say hi? Open an issue or connect above!</sub>
+  </p>

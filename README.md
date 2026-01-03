@@ -1,7 +1,7 @@
 <p align="center">
-    <h1 align="center">[![Githero Stats](https://www.githero.dev/api/widget/mewset?style=animated&theme=dark)](https://www.githero.dev/u/mewset)</h1>
+    <h1 align="center">Hello there!</h1>
     <p align="center">
-      <strong>@mewset</strong> — Stubborn web tinkerer who loves UX/UI and tries to make the web behave itself.
+      <strong>@mewset</strong> — I make stuff. Then i break stuff. then i try to make the broken stuff unbroken.
     </p>
     <p align="center">
       <a href="https://x.com/mewset"><img src="https://img.shields.io/badge/X-@mewset-000?style=flat-square&logo=x" alt="X"></a>
@@ -9,6 +9,8 @@
       <a href="https://ko-fi.com/R6R21I53PD"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
     </p>
   </p>
+
+![Githero Stats](https://www.githero.dev/api/widget/mewset?style=animated&theme=dark)
 
   ---
 

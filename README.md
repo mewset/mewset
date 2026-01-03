@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">👋 Hello there!</h1>
+    <h1 align="center">[![Githero Stats](https://www.githero.dev/api/widget/mewset?style=card&theme=dark)](https://www.githero.dev/u/mewset)</h1>
     <p align="center">
       <strong>@mewset</strong> — Stubborn web tinkerer who loves UX/UI and tries to make the web behave itself.
     </p>

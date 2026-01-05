@@ -15,9 +15,9 @@
 ## 🦸 GitHero.dev
 
 <p align="center">
-  <a href="https://githero.dev">
-    <img src="https://www.githero.dev/api/widget/mewset?style=animated&theme=dark" alt="GitHero Stats">
-  </a>
+  <a href="https://www.githero.dev/u/mewset?ref=mewset&widget=animated">
+  <img src="https://www.githero.dev/api/widget/mewset?style=animated&theme=dark" alt="Githero Stats for mewset" />
+</a>
 </p>
 
 <p align="center">

@@ -15,11 +15,10 @@
 ## 🦸 GitHero.dev
 
 <p align="center">
-  <a href="https://www.githero.dev/u/mewset?ref=mewset&widget=animated">
-  <img src="https://www.githero.dev/api/widget/mewset?style=animated&theme=dark" alt="Githero Stats for mewset" />
+  <a href="https://www.githero.dev/u/mewset?ref=mewset&widget=sparkline">
+  <img src="https://www.githero.dev/api/widget/mewset?style=sparkline&theme=dark" alt="Githero Stats for mewset" />
 </a>
 </p>
-
 <p align="center">
   <strong>GitHub gamification platform</strong> — Track your commits, earn achievements, level up your coding journey.
   <br>

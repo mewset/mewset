@@ -2,74 +2,63 @@
 
 <p align="center">
   <strong>Building software for horses, Linux nerds, and people who just want to watch TV.</strong>
+  <br>
+  <sub>Solo founder from small-town Sweden 🇸🇪 · 17 years inside other people's laptops · daily driving Omarchy</sub>
 </p>
 
 <p align="center">
   <a href="https://x.com/mewset"><img src="https://img.shields.io/badge/X-@mewset-000?style=flat-square&logo=x" alt="X"></a>
+  <a href="https://githero.dev/blog"><img src="https://img.shields.io/badge/Blog-githero.dev-111?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/mattias-andersson-551a9048/"><img src="https://img.shields.io/badge/LinkedIn-Mattias%20Andersson-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://ko-fi.com/R6R21I53PD"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
-  <a href="https://paypal.me/MattiasAndersson59"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"></a>
-  <a href="https://github.com/sponsors/mewset"><img src="https://img.shields.io/badge/GitHub_Sponsors-Support-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"></a>
 </p>
 
 ---
 
-## 🦸 GitHero.dev
+## 🧰 What I'm building
 
-<p align="center">
-  <a href="https://www.githero.dev/u/mewset?ref=mewset&widget=sparkline">
-    <img src="https://www.githero.dev/api/widget/mewset?style=sparkline&theme=dark" alt="Githero Stats for mewset" />
-  </a>
-</p>
-<p align="center">
-  <strong>GitHub gamification platform I'm building</strong> — Commit tracking, achievements, and leveling up your coding journey.
-  <br>
-  <a href="https://githero.dev">🌐 githero.dev</a>
-</p>
+| | Project | What it is | Stack |
+|---|---------|------------|-------|
+| 🐴 | **[Horsemate](https://horsemate.se)** | Stable management for Swedish horse owners. Live, with paying stables. | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| 🦸 | **[Githam City](https://githam.city)** | A tiny 3D city where a superhero saves the day with your logo on his cape. Rent a cape slot or a news ticker line. | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs) |
+| 📺 | **[Better-IPTV](https://github.com/mewset/better-iptv)** | Open source TV player for Linux, Windows and macOS. 5,000+ downloads. | ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![AUR](https://img.shields.io/aur/version/better-iptv-bin?style=flat-square) |
+| 🔋 | **[omajuice](https://github.com/mewset/omajuice)** | Headset battery in the Omarchy bar, for every headset UPower knows about. | ![QML](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white) ![Omarchy](https://img.shields.io/badge/Omarchy-plugin-111?style=flat-square&logo=archlinux&logoColor=white) |
 
-<p align="center">
-  <sub>🚧 Currently in active development</sub>
-</p>
+<sub>Retired: <a href="https://github.com/mewset/headsetstatus">HeadsetStatus</a> (replaced by omajuice). On hold: TrotBuddy.</sub>
 
 ---
 
-## 🧰 Currently Building
+## 📝 Recently
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🐴 **[Horsemate.se](https://horsemate.se)** | Digital stable management done right | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
-| 🏇 **TrotBuddy** | Your digital trotting coach | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 📺 **[Better-IPTV](https://github.com/mewset/better-iptv)** | Modern cross-platform IPTV player | ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![AUR](https://img.shields.io/aur/version/better-iptv-bin?style=flat-square) |
-| 🎧 **[HeadsetStatus](https://github.com/mewset/headsetstatus)** | Lightweight headset battery monitor for Linux | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![AUR](https://img.shields.io/aur/version/headsetstatus?style=flat-square) |
+- First patch sent to the Linux kernel: enabling the side volume buttons on the HP EliteBook x360 1030 G2 (`platform/x86/intel/hid`)
+- Better-IPTV 3.0.0 is out
+- Githam City launched on githam.city
+- Writing about all of it, mistakes included, on [the blog](https://githero.dev/blog)
 
 ---
 
-## 💻 Tech I Work With
+## 💻 Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
 ---
 
-## ☕ Support My Work
+## ☕ Support
 
-If you find my projects useful, consider buying me a coffee:
+If something I built saved you time, a coffee keeps the next thing coming:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R21I53PD)
-
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/MattiasAndersson59)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/R6R21I53PD)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/mewset)
-
----
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/MattiasAndersson59)
 
 <p align="center">
-  <sub>💬 Got ideas, questions, or just want to chat? Open an issue or reach out!</sub>
+  <sub>💬 Ideas, bugs or just want to chat? Open an issue or find me on X.</sub>
 </p>

@@ -30,7 +30,7 @@
 ## 📝 Recently
 
 - First patch accepted to the Linux kernel: enabling the side volume buttons on the HP EliteBook x360 1030 G2 (`platform/x86/intel/hid`)
-- Better-IPTV 3.1.1 is out
+- Better-IPTV 3.1.2 is out
 - Githam City launched on githam.city
 - Writing about all of it, mistakes included, on [the blog](https://githero.dev/blog)
 
